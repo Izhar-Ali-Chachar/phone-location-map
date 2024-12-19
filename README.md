@@ -6,7 +6,6 @@ This Python project processes international phone numbers, retrieves their geogr
 - Handles phone numbers from various countries.
 - Uses **OpenCage** API to get geographic coordinates for locations.
 - Displays markers on the map with detailed information (phone number, location, carrier).
-- Interactive map with **MarkerCluster**, **MiniMap**, and **Fullscreen** controls.
 
 ## Requirements:
 To run this project, you need to install the following dependencies:
